@@ -2,9 +2,9 @@
 Projeto com o objetivo de gerar um Podcast com as facilidades das ferramentas de IA. 
 
 <p align="center">
-    <img src="./Capa - Alternativa 1.jpg" alt="Capa">
+    <img src="./Podcast-DIO/Capa - Alternativa 1.jpg" alt="Capa">
 </p>
-<a href="https://github.com/Kaic-Furushima/Podcast-IA-DIO/blob/main/Código%20Shounen%20-%20Por%20Trás%20dos%20Layouts%20(AI%20Podscast%20DIO).mp3" title="View now"> 📕Clique aqui para ver</a>
+<a href="https://github.com/Kaic-Furushima/Podcast-IA-DIO/blob/main/Podcast-DIO/Código%20Shounen%20-%20Por%20Trás%20dos%20Layouts%20(AI%20Podscast%20DIO).mp3" title="View now"> 📕Clique aqui para ver</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
