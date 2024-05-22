@@ -13,7 +13,7 @@ Projeto com o objetivo de gerar um Podcast com as facilidades das ferramentas de
 - [Image Creator](https://www.microsoft.com/pt-br/edge/features/image-creator)
 - [Eleven Labs](https://elevenlabs.io)
 - [Capcut](https://www.capcut.com/pt-br/)
-- 
+  
 ## 🧠 Prompts
 
 
