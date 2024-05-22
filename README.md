@@ -23,9 +23,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  Título  | Imagine que você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em backend. Eu gostaria de sua ajuda para criar 10 sugestões
 de nomes criativos para o podcast. Gostaria que contesse algum trocadilho nerd no nome, que seja relacionado a animes ou games.
-
 O podcast abordará o mundo tech, dando ênfase nas partes do backend. Contará novidades, acontecimentos e o atual estado do mercado tech.
-
 {REGRAS}
 - Eu gostaria que os nomes fossem majoritariamente em português. Se houverem palavras em inglês, traduza-as.
 - Preciso que os nomes contenham título e subtítulo                                                       |
@@ -35,9 +33,7 @@ o formato do roteiro deve ser
 [CURIOSIDADE 1]
 [CURIOSIDADE 2]
 [FINALIZAÇÃO]
-
 {REGRAS}
-
 - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
 - no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
 - no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
@@ -45,12 +41,9 @@ o formato do roteiro deve ser
 - use termos de fácil explicação
 - O podcast vai ser apresentado somente por uma pessoa, chamada Felipão
 - O podcast deve ser curto
-
 {REGRAS NEGATIVAS}
-
 - Não use muitos termos técnicos
 - Não ultrapasse 5 minutos de duração |
-
 
 Image Creator：
 
